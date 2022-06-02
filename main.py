@@ -47,6 +47,3 @@ if __name__ == "__main__":
     print(res[:30])
     en1 = tm.time()
     print("Tiempo multi:", en1-st1)
-
-
-print(primos(10))
